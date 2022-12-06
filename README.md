@@ -1,6 +1,8 @@
 # Revising Queer Minorities in Lexicons
 
 Paper: https://aclanthology.org/2022.woah-1.23.pdf
+
+
 Citation: 
 ```
 @inproceedings{ramesh-etal-2022-revisiting,
